@@ -1,0 +1,6 @@
+c:\users\vovay\onedrive\documents\visual studio 2015\Projects\URLParserApp\URLParser\bin\Debug\URLParser.pdb
+c:\users\vovay\onedrive\documents\visual studio 2015\Projects\URLParserApp\URLParser\obj\Debug\URLParser.csprojResolveAssemblyReference.cache
+c:\users\vovay\onedrive\documents\visual studio 2015\Projects\URLParserApp\URLParser\obj\Debug\URLParser.pdb
+C:\Users\vovay\OneDrive\Documents\Visual Studio 2015\Projects\URLParserApp\URLParser\bin\Debug\URLParser.dll.config
+C:\Users\vovay\OneDrive\Documents\Visual Studio 2015\Projects\URLParserApp\URLParser\bin\Debug\URLParser.dll
+C:\Users\vovay\OneDrive\Documents\Visual Studio 2015\Projects\URLParserApp\URLParser\obj\Debug\URLParser.dll
